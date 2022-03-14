@@ -1,1 +1,2 @@
+REMOTE
 # testing-conflict
